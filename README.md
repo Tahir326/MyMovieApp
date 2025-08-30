@@ -117,6 +117,9 @@ This project follows **Clean Architecture** combined with **MVVM**:
 - Add unit tests for ViewModels and repository
 - Add instrumented UI tests for Compose screens
 
+### Dark and Light Mode
+- Fully implement dark and light theme support
+
 ### Network Layer
 - Replace Mock API with a real remote API (Retrofit + REST)
 - Add caching strategies with Room + network sync
@@ -131,4 +134,5 @@ This project follows **Clean Architecture** combined with **MVVM**:
 - Implement debounce search to optimize performance
 
 ---
+
 
