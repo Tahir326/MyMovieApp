@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyMovieApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Window background for splash screen -->
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+
+        <!-- Splash screen icon for light mode -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+
+    </style>
+</resources>
