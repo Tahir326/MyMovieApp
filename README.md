@@ -65,9 +65,9 @@ This project follows **Clean Architecture** combined with **MVVM**:
 </div>
 
 
-## 🎥 Live Demo
 
-[Live Demo Link](https://your-demo-link.com)
+
+**📱 App Demo Video:** [Watch Full App Demonstration](https://drive.google.com/file/d/1y1He434OZX24p2EBpyrdvRdwyNK2i6wG/view?usp=sharing)
 
 ---
 
@@ -131,3 +131,4 @@ This project follows **Clean Architecture** combined with **MVVM**:
 - Implement debounce search to optimize performance
 
 ---
+
